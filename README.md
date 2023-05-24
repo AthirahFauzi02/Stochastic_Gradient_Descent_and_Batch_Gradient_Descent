@@ -1,0 +1,1 @@
+# Stochastic_Gradient_Descent_and_Batch_Gradient_Descent
